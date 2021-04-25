@@ -34,3 +34,15 @@ pip install opencv-python
 pip install opencv-contib-python
 pip install dlib
 ```
+
+##  Demo 
+
+![](https://i.postimg.cc/c4LWNyBH/imasda.png)
+
+![](https://i.postimg.cc/Bn8GXTyf/Image1.png)
+
+![](https://i.postimg.cc/T3ZvmyML/image2.png)
+
+
+
+
